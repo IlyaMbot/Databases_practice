@@ -3,9 +3,6 @@
 
 import sqlite3
 
-#saves the DB?
-#conn = sqlite3.connect(':memory')
-
 # create a database
 conn = sqlite3.connect('customer.dt') 
 
